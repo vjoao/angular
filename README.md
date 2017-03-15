@@ -11,7 +11,7 @@
 Angular
 =========
 
-Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript (JS) and other languages.
+Angular is the best platform for building mobile and desktop web applications using Typescript/JavaScript (JS) and other languages.
 
 
 ## Quickstart
