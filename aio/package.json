@@ -27,7 +27,7 @@
     "@angular/animations": "next",
     "@angular/common": "next",
     "@angular/compiler": "next",
-    "@angular/core": "next",
+    "@angular/core": "11.0.5",
     "@angular/forms": "next",
     "@angular/http": "next",
     "@angular/material": "https://github.com/angular/material2-builds",
