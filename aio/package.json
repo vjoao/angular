@@ -25,7 +25,7 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "next",
-    "@angular/common": "next",
+    "@angular/common": "19.2.16",
     "@angular/compiler": "next",
     "@angular/core": "next",
     "@angular/forms": "next",
