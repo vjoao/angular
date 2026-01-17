@@ -26,8 +26,8 @@
   "dependencies": {
     "@angular/animations": "next",
     "@angular/common": "next",
-    "@angular/compiler": "next",
-    "@angular/core": "next",
+    "@angular/compiler": "19.2.18",
+    "@angular/core": "19.2.18",
     "@angular/forms": "next",
     "@angular/http": "next",
     "@angular/material": "https://github.com/angular/material2-builds",
